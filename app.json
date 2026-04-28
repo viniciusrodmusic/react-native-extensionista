@@ -4,7 +4,6 @@
     "slug": "praticando",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
     "scheme": "praticando",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
